@@ -1,0 +1,6 @@
+5
+FuriousAI 250
+Someone 150
+Ivan 100
+Anton -50
+Noob -150
